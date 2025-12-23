@@ -4,6 +4,7 @@ version = "0.0.0"
 edition = "2018"
 
 [dependencies]
+chrono = "0.4.42"
 
 [dependencies.time]
 version = "0.3"
